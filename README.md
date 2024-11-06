@@ -1,4 +1,30 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+How Can create This Project:-
+
+## Step1:
+npx create-next-app@latest
+## Step2:
+what is your name? llama-chatbot
+whould you like to use TypeScript? Yes
+whould you like to use ESLint? Yes
+whould you like to use Tailwind CSS? Yes
+whould you like to use 'src/' directory? No
+whould you like to use APP router? Yes
+whould you like to customize the default import alias ? No
+ using npm
+## Step3:
+ cd llama-chatbot
+## Step4:
+ npm install --save groq-sdk
+## Step5:
+ code .
+ 
+ ## After that check .env.local 
+ should be created to app your api
+ 
+ npm run build 
+ npm run dev
+ 
 
 ## Getting Started
 
